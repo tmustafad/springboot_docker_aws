@@ -1,0 +1,13 @@
+ {
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "tmustafad/springboot_docker",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "5000",
+      "HostPort": 8000
+    }
+  ]
+}
