@@ -12,7 +12,7 @@ public class SpringbootDockerApplication {
 
 	@RequestMapping("/")
 	public String sayHi(){
-		return "Hi mother fucker";
+		return "Hi All....";
 	}
 
 	@RequestMapping("/turkmen")
