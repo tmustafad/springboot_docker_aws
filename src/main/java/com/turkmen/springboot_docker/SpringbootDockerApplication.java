@@ -17,7 +17,7 @@ public class SpringbootDockerApplication {
 
 	@RequestMapping("/turkmen")
 	public String methodTurkmen(){
-		return "EN BUYUK FENERBAHCE......!!!!!!!!!! YASA FENERBAHCE !!!!!!!!!!!!!!!!!!!!!!!!";
+		return "Hello From AWS :))";
 	}
 
 	public static void main(String[] args) {
